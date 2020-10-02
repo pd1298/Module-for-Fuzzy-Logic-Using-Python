@@ -3,7 +3,7 @@ TYPE 2 Fuzzy Logic Tool created for Researchers<br />
 Contains following functions<br />
 
 **trilmf** : Triangular Lower Member function for membership value less than 1(h)<br />
-**triumf** : Triangular Lower Member function for membership value less than 1(h)<br />
+**triumf** : Triangular Upper Member function for membership value less than 1(h)<br />
 **umf** : Upper Triangular Membership Function<br />
 **lmf** : Lower Membership Function<br />
 **plotting_mf** : Plotting of membership functions<br />
